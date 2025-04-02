@@ -1,0 +1,14 @@
+.DS_Store
+__MACOSX/
+
+__pycache__/
+
+.vscode/
+.idea/
+
+venv
+
+.pytest_cache/
+
+logs
+*.log
